@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`94521f6`](https://github.com/abrilmrsuarez-lgtm/my-package-with-semver/commit/94521f663f7ce8a10d88e0a62fbf0e6839b2ed12))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes
