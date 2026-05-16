@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`d0af73e`](https://github.com/abrilmrsuarez-lgtm/my-package-with-semver/commit/d0af73e69a4cae06b298375c0f37de2640c656bb))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
